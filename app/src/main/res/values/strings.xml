@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="SignIn">Sign In</string>
+    <string name="search">Search</string>
+    <string name="no_earthquakes">No Movies Found</string>
+    <string name="no_connection">No Connection</string>
+</resources>
